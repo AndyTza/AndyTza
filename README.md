@@ -5,9 +5,9 @@ My name is Anastasios Tzanidakis. I'm a third-year astrophysics Ph.D. student at
 
 
 
-🖥️ NASA ADS Publications ((here)[google.com])
-📠 Personal Website (here)
-🟦 BlueSky (here)
+- 🖥️ NASA ADS Publications ([here](google.com))
+- 📠 Personal Website (here)
+- 🟦 BlueSky (here)
 
 
 
