@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Tl;dr
+- 😄 Pronouns: he/him
+
+
+
 My name is Anastasios Tzanidakis, but you can call me Andy. I'm a third-year astronomy Ph.D. student at the University of Washington. 
 
 <!--
