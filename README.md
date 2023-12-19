@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-My name is Anastasios Tzanidakis. I'm a third-year astrophysics Ph.D. student at the University of Washington. 
+My name is Anastasios Tzanidakis. I'm a third-year astrophysics Ph.D. student at the University of Washington. I'm fascinated by stellar variability as. Currently, I'm building tools and techniques to discover some of the rarest stellar variability found in modern time-domain surveys such as the Zwicky Transient Facility (ZTF) survey and Gaia.  
+
+
+
+I'm also an active member of the Vera C. Rubin Observatory data commissioning team at the University of Washington with a particular focus on the time-series features evaluated. 
 
 
 Beyond my academic pursuits, I’m deeply passionate about promoting equitable science communication, particularly inspiring youth to pursue STEM careers. Currently serving as the director of the University of Washington’s planetarium, I’m committed to educating, inspiring, and mentoring the next generation of astronomers and science educators. I run a social media account called [@AndTzaAstro](instagram.com/andytzaastro), dedicated to promoting open-source tools and blogs about astronomy and astrophysics. 
