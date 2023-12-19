@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Anastasios Tzanidakis, but you can call me Andy. I'm a third-year astronomy Ph.D. student at the University of Washington. 
+
 <!--
 **AndyTza/AndyTza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
