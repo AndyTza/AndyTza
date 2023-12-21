@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Anastasios Tzanidakis. I'm a third-year astrophysics Ph.D. student at the University of Washington. I'm fascinated by stellar variability as. Currently, I'm building tools and techniques to discover some of the rarest stellar variability found in modern time-domain surveys such as the Zwicky Transient Facility (ZTF) survey and Gaia.  
+My name is Anastasios Tzanidakis. I'm a third-year astrophysics Ph.D. student at the University of Washington. I'm fascinated by anomalous stellar variability such as the [Boyajian star](https://en.wikipedia.org/wiki/Tabby%27s_Star) and other strange-behaving stars. Currently, I'm building tools and techniques to discover some of the rarest stellar variability found in modern time-domain surveys such as the Zwicky Transient Facility (ZTF) survey and Gaia.  
 
 
 
